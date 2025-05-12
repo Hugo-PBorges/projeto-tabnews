@@ -1,7 +1,7 @@
 function Home() {
     return (
 
-        <h1> Te amo mãe </h1>
+        <h1> Feliz dia das mães !</h1>
     );
 }
 
